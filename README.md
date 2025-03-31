@@ -19,7 +19,7 @@ I'm a **full-stack developer** with a passion for building cool web applications
 - **Security Researcher**: My work has earned mentions in the **security research acknowledgements** of major companies like **Apple**, **Microsoft**, and **eBay** for discovering vulnerabilities in their web applications.
   
 ## 📈 **GitHub Stats**:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanker70&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
