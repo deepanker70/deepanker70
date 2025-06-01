@@ -28,7 +28,7 @@ I'm a **full-stack developer** with a passion for building cool web applications
 - 📱 [Gadget Comparison](https://gadgets.techlomedia.in/)
 - 🚗 [Car News and Comparison](https://wheelyard.com/)
 - 🌐 [Triponzy Blog](https://triponzy.com/)
-- 🎥 [Tech Videos on YouTube](https://www.youtube.com/c/techlomedia)
+- 🎥 [Tech Videos on YouTube](https://www.youtube.com/c/techlomediaIn)
 
 ---
 
