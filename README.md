@@ -23,4 +23,13 @@ I'm a **full-stack developer** with a passion for building cool web applications
 
 ---
 
+## 📝 My Websites
+- 💻 [Tech Blog](https://techlomedia.in/)
+- 📱 [Gadget Comparison](https://gadgets.techlomedia.in/)
+- 🚗 [Car News and Comparison](https://wheelyard.com/)
+- 🌐 [Triponzy Blog](https://triponzy.com/)
+- 🎥 [Tech Videos on YouTube](https://www.youtube.com/c/techlomedia)
+
+---
+
 > **"The only way to do great work is to love what you do." — Steve Jobs**
